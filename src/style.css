@@ -40,6 +40,10 @@ section#hero {
     margin-top: -8%;
 }
 
+#hero__body {
+    width: 468px;
+}
+
 ul#list_service {
     list-style: none;
 }
@@ -83,6 +87,11 @@ ul#list_service {
     section#hero {
         margin-top: 20%;
         align-items: start !important;
+    }
+
+
+    #hero__body {
+        width: 100%;
     }
 
     #hero-img {
