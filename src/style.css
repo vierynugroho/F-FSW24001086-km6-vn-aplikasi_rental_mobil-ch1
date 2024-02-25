@@ -41,7 +41,8 @@ section#hero {
     margin-top: -8%;
 }
 
-#hero__body {
+#hero__body,
+#banner__body {
     width: 468px;
 }
 
@@ -98,6 +99,10 @@ ul#list_service {
 
     #hero__body {
         width: 100%;
+    }
+
+    #banner__body {
+        width: 212px;
     }
 
     #hero-img {
