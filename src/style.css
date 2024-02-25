@@ -1,10 +1,15 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    line-height: 20px;
 }
 
 header {
     z-index: 999;
+}
+
+h1 {
+    font-size: 34px !important;
 }
 
 /* custom color */
@@ -83,5 +88,11 @@ ul#list_service {
 
     #faq__title {
         align-items: center !important;
+    }
+
+    #rate {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
