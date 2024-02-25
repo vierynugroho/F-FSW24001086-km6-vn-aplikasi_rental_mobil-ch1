@@ -30,12 +30,13 @@ footer .container .row .col-10 a.navbar-brand {
     height: 34px;
 }
 
-/* other styles */
+/* layout styles */
 section {
     width: 100%;
     height: 100vh;
 }
 
+/* hero */
 section#hero {
     margin-top: -8%;
 }
@@ -44,6 +45,7 @@ section#hero {
     width: 468px;
 }
 
+/* services */
 ul#list_service {
     list-style: none;
 }
@@ -64,6 +66,7 @@ ul#list_service {
     width: 32px;
 }
 
+/* testimonial */
 #profile_img {
     width: 80px;
 }
@@ -72,6 +75,7 @@ ul#list_service {
     width: 32px;
 }
 
+/* banner */
 #banner {
     background-image: url('../assets/banner.png');
     background-position: center;
@@ -79,6 +83,8 @@ ul#list_service {
     background-size: cover;
 }
 
+
+/* RESPONSIVE BREAKPOINTS */
 @media only screen and (max-width: 576px) {
     section .container .row #hero-img img {
         bottom: 0;
