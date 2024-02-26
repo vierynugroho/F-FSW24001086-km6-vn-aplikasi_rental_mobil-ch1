@@ -1,5 +1,8 @@
-# Data Diri
+<h1 align="center">
+  Submission Chapter 1
+</h1>
 
+# Data Diri
 |  |  |
 |--|--|
 | ID Peserta | **FSW2402KM6024** |
