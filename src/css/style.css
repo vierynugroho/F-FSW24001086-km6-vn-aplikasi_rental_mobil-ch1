@@ -38,7 +38,8 @@ section {
 
 /* hero */
 section#hero {
-    margin-top: -8%;
+    margin-top: -5%;
+    height: 504px;
 }
 
 #hero__body,
@@ -52,7 +53,7 @@ ul#list_service {
 }
 
 .custom-icon {
-    background-image: url('../assets/list.svg');
+    background-image: url('../../assets/list.svg');
     width: 24px;
     height: 24px;
     background-size: contain;
@@ -78,7 +79,7 @@ ul#list_service {
 
 /* banner */
 #banner {
-    background-image: url('../assets/banner.png');
+    background-image: url('../../assets/banner.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -93,6 +94,7 @@ ul#list_service {
 
     section#hero {
         margin-top: 20%;
+        height: 100vh;
         align-items: start !important;
     }
 
